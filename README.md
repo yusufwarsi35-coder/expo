@@ -1,3 +1,11 @@
+{
+  "build": {
+    "preview": {
+      "distribution": "internal"
+    }
+  }
+}
+
 <!-- Banner Image -->
 
 <p align="center">
